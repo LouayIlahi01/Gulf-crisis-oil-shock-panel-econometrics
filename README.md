@@ -17,3 +17,5 @@ Fixed effects panel analysis (Pooled OLS, Fixed Effects, Random Effects) of the 
 ## Limitations
 Only 4 countries, 3 post-crisis months, and trending series. See Section 8 of the report.
 
+Data: public sources listed in the report's references (IMF, OECD, FRED, BIS)
+
