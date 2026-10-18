@@ -7,7 +7,6 @@ Fixed effects panel analysis (Pooled OLS, Fixed Effects, Random Effects) of the 
 ## Files
 - Report (PDF): the full written report
 - `Panel_Project_Complete.R`: R script producing all results
-- `panel_data_final.csv`: dataset
 - `Geopolitics_Oil_Report.tex` and `figures/`: LaTeX source of the report
 
 ## Main findings
